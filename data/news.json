@@ -1,1 +1,14 @@
-
+{
+  "news": [
+    {
+      "title": "https://m.vneid.gov.vn/api/cms/portal/media/image/preview?fileName=post/image/TW/557f049d-471b-4338-8af1-bea59d79f0c0.png",
+      "url": "https://vneid.gov.vn/tintuc/canh-bao-thu-doan-mao-danh-co-quan-bhxh-yeu-cau-cung-cap-thong-tin-ca-nhan-cap-nhat-the-bhyt-tren-ung-dung-vssid?id=5983",
+      "thumbnail": "https://m.vneid.gov.vn/api/cms/portal/media/image/preview?fileName=post/image/TW/557f049d-471b-4338-8af1-bea59d79f0c0.png"
+    },
+    {
+      "title": "Tạo lập hệ thống dữ liệu tin cậy, góp phần chuyển đổi số quốc gia",
+      "url": "https://vneid.gov.vn/tintuc/tao-lap-he-thong-du-lieu-tin-cay-gop-phan-chuyen-doi-so-quoc-gia?id=5888",
+      "thumbnail": "https://m.vneid.gov.vn/api/cms/portal/media/image/preview?fileName=post/image/TW/3a04222c-f3eb-4ed7-bba3-38ffee492f13.png"
+    }
+  ]
+}
